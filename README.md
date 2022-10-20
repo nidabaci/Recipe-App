@@ -4,6 +4,8 @@ Forkify App is an functional application made with vanilla JavaScript. It intera
 The user can search for a specific recipe, and save to a favorites list via local storage.    
 The user can easily increase or decrease servings as per his need and can view detailed directions.
 
+![Forkify App Webpage](./src/img/forkify-app.png)
+
 ## Usage
 
 1. The Forkify Recipe App allows users to search for recipes.
