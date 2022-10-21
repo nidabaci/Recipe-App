@@ -27,11 +27,6 @@ This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [Webpack](https://webpack.js.org/)
 - [NPM](https://www.npmjs.com/)
-
-## Authors
-
-  - **Jonida Baçi**
-    [NidaBaci](https://nidabaci.github.com/)
     
 ## Demo
 [Click Here to see demo](https://nids-forkify-app.netlify.app/)
