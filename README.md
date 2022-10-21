@@ -33,6 +33,9 @@ This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses
   - **Jonida Baçi**
     [NidaBaci](https://nidabaci.github.com/)
     
+## Demo
+[Click Here to see demo](https://nids-forkify-app.netlify.app/)
+    
 ## Acknowledgments
 
   * The Complete JavaScript Course 2021: From Zero to Expert! by Jonas Schmedtmann
