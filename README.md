@@ -1,4 +1,4 @@
-## Forkify App 🍕
+## Forkify Recipe App 🍕
 
 Forkify App is an functional application made with vanilla JavaScript. It interacts with the Forkify API to fetch and display recipes.    
 The user can search for a specific recipe, and save to a favorites list via local storage.    
